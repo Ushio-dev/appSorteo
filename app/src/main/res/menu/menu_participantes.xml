@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/crear_excel"
+        android:icon="@android:drawable/stat_sys_download"
+        android:title="descargar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_eliminar_paritipantes"
+        app:showAsAction="never"
+        android:title="Eliminar Todos"/>
+</menu>

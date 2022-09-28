@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_irparticipantes"
+        app:showAsAction="never"
+        android:title="Ver Participantes"/>
+
+    <item
+        android:id="@+id/menu_irSorteo"
+        app:showAsAction="never"
+        android:title="Ir a Sorteo"/>
+
+    <item
+        android:id="@+id/ganadores_lista"
+        app:showAsAction="never"
+        android:title="Ver Ganadores"/>
+
+</menu>
